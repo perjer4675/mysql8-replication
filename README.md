@@ -1,5 +1,5 @@
 # mysql8-replication
-mysql8 replication
+**mysql8 replication**
 
 *Create 2 MySQL containers with master-slave replication*
 
